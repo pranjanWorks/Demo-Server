@@ -1,0 +1,76 @@
+{
+  "contacts": [
+    {
+      "id": "8d75230b-cb6e-4670-ba7a-3ea89305653a",
+      "name": "Pratyush Ranjan",
+      "email": "pratyushranjan02@gmail.com"
+    },
+    {
+      "id": "00619023-3336-42fa-852f-8d2db2be7841",
+      "name": "Meet",
+      "email": "meet@mail.com"
+    },
+    {
+      "id": "46553d17-ca60-4aec-8cf2-b6f48f49500a",
+      "name": "Gautam",
+      "email": "gautam@mail.com"
+    },
+    {
+      "id": "3915c080-f3ba-49fa-bd65-f11ce06d3dfc",
+      "name": "Keshav",
+      "email": "keshav@mail.com"
+    },
+    {
+      "id": "99315e20-beac-47ee-acab-f53ee9f4d49c",
+      "name": "Yuvraj",
+      "email": "yuvraj@gmail.com"
+    },
+    {
+      "id": "82c32f7d-6fbb-4fe9-8614-b2c520f42b57",
+      "name": "Pallav Jain",
+      "email": "pallav@mail.com"
+    }
+  ],
+  "interns": [
+    {
+      "name": "Pratyush Ranjan",
+      "email": "pratyush.ranjan@ringcentral.com",
+      "department": "Development",
+      "primaryNo": "068510 98354",
+      "ext": "98354",
+      "id": "c3eb"
+    },
+    {
+      "name": "Keshav Mittal",
+      "email": "keshav.mittal@ringcentral.com",
+      "department": "Development",
+      "primaryNo": "068510 98353",
+      "ext": "98353",
+      "id": "4b2b"
+    },
+    {
+      "name": "Vishwareddy Biradar",
+      "email": "vishwareddy.biradar@ringcentral.com",
+      "department": "Development",
+      "primaryNo": "068510 98366",
+      "ext": "98366",
+      "id": "1c7d"
+    },
+    {
+      "id": "39a9",
+      "name": "Pranav Reddy",
+      "email": "pranav.reddy@ringcentral.com",
+      "department": "Development",
+      "primaryNo": "068510 98344",
+      "ext": "98344"
+    },
+    {
+      "id": "9aba",
+      "name": "Mayank Jain",
+      "email": "mayank.jain@ringcentral.com",
+      "department": "Development",
+      "primaryNo": "068510 78344",
+      "ext": "78344"
+    }
+  ]
+}
